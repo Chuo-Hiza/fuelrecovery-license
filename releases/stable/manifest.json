@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "channel": "stable",
-  "version": "10.7.1",
-  "released_at": "2026-07-22T13:01:07",
+  "version": "10.7.2",
+  "released_at": "2026-07-27T17:28:44",
   "update_type": "patch",
   "min_from_version": "10.5.0",
   "min_db_version": 12,
   "package": {
-    "url": "https://chuo-hiza.github.io/fuelrecovery-license/releases/stable/FuelRecoveryOS_update_v10.7.1.zip",
-    "size_bytes": 4200099,
-    "sha256": "9aca0b28f0fc19b5fa065c9e5c5cbf7fbee44b646dacbf2219d2436f1983d7fe"
+    "url": "https://chuo-hiza.github.io/fuelrecovery-license/releases/stable/FuelRecoveryOS_update_v10.7.2.zip",
+    "size_bytes": 4207970,
+    "sha256": "5c8454112b7b3d081bc08d4bb1c171d73f3bddd267308f655ac93ef8faa57c11"
   },
   "release_notes_url": null,
   "mandatory_after": null,
   "rollout_percent": 100,
   "blocked_versions": [],
-  "signature": "JawaOR+jcRsd3INWGsZpUNKX5Gi7HwkJaQ+wdokKvNjyX4ITkmhVUHpixQ9Js8u8SRzpnesbVLICmNEETcFoBg=="
+  "signature": "ql/qq/Hnf2Zz9vtsAvGurNECXdQv7M+KRfjT4sBEjciudEItT2k3amRm6REeJ8awkNfGvosSPiUqjB6vC+8aDw=="
 }
